@@ -99,7 +99,7 @@ header{
     top: -620px;
     left: -110px;
     float: left;
-    color:rgb(33, 185, 59);
+    color:rgb(248, 250, 248);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 3em;
  }
@@ -133,7 +133,7 @@ header{
    color: black;
  }
  #a1:hover{
-   background-color: rgba(216, 21, 21, 0.774);
+   background-color: rgba(245, 241, 241, 0.77);
    color: black;
  }
  
